@@ -1,8 +1,11 @@
+![NINEAPPLE STUDIO](assets/banner-superWide.png)
 <div align="center">
 
 # NAPPLE7724
 
 ### [STUDIO.NINEAPPLE.XYZ](https://studio.nineapple.xyz)
+
+<br><br><br><br><br>
 
 <small>
 
